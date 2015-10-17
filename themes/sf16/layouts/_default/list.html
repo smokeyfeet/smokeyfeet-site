@@ -4,7 +4,7 @@
 <section>
   <div class="row">
     <div class="large-12 columns">
-      <h1>Section: {{ .Section }}</h1>
+      <h1>Section</h1>
       {{ range .Data.Pages }}
         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
           {{ with .Description }}<p>{{ . }}</p>{{ end }}

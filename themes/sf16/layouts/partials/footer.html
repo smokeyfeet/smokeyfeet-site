@@ -7,16 +7,26 @@
         <li class="locality">1017 NJ Amsterdam</li>
         <li><span class="state">The Netherlands</span></li>
         <li class="email">info@smokeyfeet.com</li>
+        <li>KvK: 64013359</li>
         <!--
-        <li>KvK: XXX</li>
         <li>BTW (VAT): XXX</li>
         -->
       </ul>
     </div>
     <div class="large-6 columns">
       <div class="row">
-        <div class="large-6 medium-6 small-6 columns">Left</div>
-        <div class="large-6 medium-6 small-6 columns">Right</div>
+        <div class="large-6 medium-6 small-6 columns">
+        </div>
+        <div class="large-6 medium-6 small-6 columns">
+          <ul>
+{{ with .Site.Params.facebookUrl }}
+            <li><a href="{{ . }}">Facebook</a></li>
+{{ end }}
+{{ with .Site.Params.twitterUrl }}
+            <li><a href="{{ . }}">Twitter</a></li>
+{{ end }}
+          </ul>
+        </div>
       </div>
     </div>
   </div>

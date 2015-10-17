@@ -1,11 +1,11 @@
-baseurl = "http://www.smokeyfeet.com"
+baseurl = "http://37-97-133-137.colo.transip.net"
 languageCode = "en-us"
 theme = "sf16"
-title = "Smokey Feet"
+title = "Smokey Feet 2016"
 
 [params]
-	authorName = "Smokey Feet Krew"
-	description = "Largest LH event"
-	facebook = "https://facebook.com/smokeyfeet"
-	googleAnalytics = "xxx"
-	twitter = "https://twitter.com/smokeyfeet"
+authorName = "Smokey Feet Crew"
+description = "International Swing Dance Festival"
+googleAnalytics = "xxx"
+facebookUrl = "//facebook.com/Smokey-Feet-181498711899234"
+twitterUrl = "//twitter.com/smokeyfeet"

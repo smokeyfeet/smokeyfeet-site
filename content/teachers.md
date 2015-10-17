@@ -32,7 +32,11 @@ http://www.youtube.com/watch?v=LqwC4pnnwtQ
 
 https://drive.google.com/folderview?id=0B6eWlginWKerSFFZSkdfdHdIRE0&usp=sharing
 
-JB & Tatiana
+JB Mino
+-------
+TBD
+
+Tatiana Udry
 ------------
 TBD
 
@@ -40,8 +44,8 @@ Nicolas
 -------
 TBD
 
-Pamela
-------
+Pamela Gaizutyte
+----------------
 Pamela has been dancing since she was 5 years old. She did traditional
 Lithuanian folk dancing for years, until she found her passion in lindy
 hop at the age of sixteen. In 2009, she began working at Hoppers' Dance
