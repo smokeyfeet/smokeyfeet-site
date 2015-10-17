@@ -1,0 +1,24 @@
+{{ partial "header.html" . }}
+{{ partial "navigation.html" . }}
+
+<section>
+  <div class="row">
+    <div class="large-12 columns">
+      <article>
+        <header>
+          <h1 class="title">{{ .Title }}</h1>
+          <h2 class="subtitle">{{ .Description }}</h2>
+        </header>
+
+        <section>
+        {{ .Content }}
+        </section>
+
+        <footer>
+        </footer>
+      </article>
+    </div>
+  </div>
+</section>
+
+{{ partial "footer.html" . }}

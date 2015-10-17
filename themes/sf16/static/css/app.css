@@ -1,0 +1,30 @@
+#splash {
+  background-color: #fff;
+}
+
+
+#intro {
+  background-color: #086885;
+  color: #fff;
+}
+
+#dates {
+  background-color: #086885;
+}
+
+#teachers {
+  background-color: #C2B6B0;
+}
+
+
+body {
+  font-family: Merriweather, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Merriweather, serif;
+}
+
+h1 {
+  color: #E85110;
+}

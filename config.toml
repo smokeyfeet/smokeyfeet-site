@@ -1,0 +1,11 @@
+baseurl = "http://www.smokeyfeet.com"
+languageCode = "en-us"
+theme = "sf16"
+title = "Smokey Feet"
+
+[params]
+	authorName = "Smokey Feet Krew"
+	description = "Largest LH event"
+	facebook = "https://facebook.com/smokeyfeet"
+	googleAnalytics = "xxx"
+	twitter = "https://twitter.com/smokeyfeet"

@@ -1,0 +1,22 @@
+*:not(body):not(html) {
+  box-sizing:border-box;
+  border:1px dashed #000;
+}
+
+.columns {
+  min-height: 100px;
+}
+
+body {
+  font-family: Merriweather, serif;
+}
+
+h1 {
+  font-variant-ligatures: common-ligatures;
+  text-rendering: optimizeLegibility;
+}
+
+#main-event {
+  background: #761A25;
+  color: #fff;
+}
