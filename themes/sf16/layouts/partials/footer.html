@@ -1,33 +1,33 @@
 <footer id="site-footer">
   <div class="row">
     <div class="large-6 columns">
+      <div class="row">
+        <div class="large-6 medium-6 small-6 columns">
+          <ul class="no-bullet">
+{{ with .Site.Params.facebookUrl }}
+            <li><a href="{{ . }}"><i class="fi-social-facebook large"></i></a></li>
+{{ end }}
+{{ with .Site.Params.twitterUrl }}
+            <li><a href="{{ . }}"><i class="fi-social-twitter large"></i></a></li>
+{{ end }}
+          </ul>
+        </div>
+        <div class="large-6 medium-6 small-6 columns">
+        </div>
+      </div>
+    </div>
+
+    <div class="large-6 columns">
       <ul class="vcard">
         <li class="fn">Stichting Smokey Feet</li>
         <li class="street-address">Lange Leidsedwarsstraat 115-2</li>
         <li class="locality">1017 NJ Amsterdam</li>
         <li><span class="state">The Netherlands</span></li>
-        <li class="email">info@smokeyfeet.com</li>
-        <li>KvK: 64013359</li>
         <!--
-        <li>BTW (VAT): XXX</li>
+        <li class="email"></li>
         -->
+        <li>KvK: 64013359</li>
       </ul>
-    </div>
-    <div class="large-6 columns">
-      <div class="row">
-        <div class="large-6 medium-6 small-6 columns">
-        </div>
-        <div class="large-6 medium-6 small-6 columns">
-          <ul>
-{{ with .Site.Params.facebookUrl }}
-            <li><a href="{{ . }}">Facebook</a></li>
-{{ end }}
-{{ with .Site.Params.twitterUrl }}
-            <li><a href="{{ . }}">Twitter</a></li>
-{{ end }}
-          </ul>
-        </div>
-      </div>
     </div>
   </div>
 </footer>

@@ -40,8 +40,8 @@ Tatiana Udry
 ------------
 TBD
 
-Nicolas
--------
+Nicolas Deniau
+--------------
 TBD
 
 Pamela Gaizutyte

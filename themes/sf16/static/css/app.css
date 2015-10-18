@@ -2,8 +2,8 @@
   background-color: #fff;
 }
 
-
 #intro {
+  padding-top: 0.5em;
   background-color: #086885;
   color: #fff;
 }
@@ -14,8 +14,13 @@
 
 #teachers {
   background-color: #C2B6B0;
+  padding-top: 0.5em;
 }
 
+#music {
+  background-color: #f9f4ef;
+  padding-top: 0.5em;
+}
 
 body {
   font-family: Merriweather, serif;
@@ -27,4 +32,27 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   color: #E85110;
+}
+
+#site-footer {
+  padding-top: 1em;
+}
+
+.vcard {
+  border: none;
+}
+
+i.small {
+  font-size: 20px;
+  line-height: 20px;
+}
+
+i.medium {
+  font-size: 35px;
+  line-height: 35px;
+}
+
+i.large {
+  font-size: 50px;
+  line-height: 50px;
 }
