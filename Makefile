@@ -11,6 +11,7 @@ draft:
 .PHONY: clean
 clean:
 	rm -rf $(CURDIR)/public
+	find $(CURDIR) -iname ".DS_Store" -exec rm {} \;
 
 .PHONY: serve
 serve:
