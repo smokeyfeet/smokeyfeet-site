@@ -1,14 +1,8 @@
 +++
 date = "2015-10-17T16:34:59+02:00"
+draft = true
 title = "Bands"
-weight = 5
-
-[menu]
-  [menu.main]
-    parent = "x"
-
 +++
-
 Professor Cunningham & his Old School (USA)
 -------------------------------------------
 This popular New York based band performs the most swinging and grooving

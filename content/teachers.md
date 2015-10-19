@@ -1,12 +1,7 @@
 +++
 date = "2015-10-17T16:28:31+02:00"
+draft = true
 title = "Teachers"
-weight = 5
-
-[menu]
-  [menu.main]
-    parent = "x"
-
 +++
 
 Ali & Katja
