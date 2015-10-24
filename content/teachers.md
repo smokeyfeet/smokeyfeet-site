@@ -8,7 +8,7 @@ Ali & Katja
 -----------
 It was love at first dance: Ali & Katja have been dancing together ever
 since they met on a Paris dance floor in 2003. Based in Heidelberg,
-Germany, they are working to spread the Lindy Hop through their
+Germany, they are working to spread the Lindy hop through their
 teaching teams in Heidelberg, Darmstadt and Berlin and with their
 own travelling to teach workshops around Europe.
 
@@ -25,28 +25,23 @@ dancing to the next level.
 
 http://www.youtube.com/watch?v=LqwC4pnnwtQ
 
-https://drive.google.com/folderview?id=0B6eWlginWKerSFFZSkdfdHdIRE0&usp=sharing
-
-JB Mino
--------
-TBD
-
-Tatiana Udry
-------------
-TBD
-
-Nicolas Deniau
---------------
-TBD
+JB Mino and Tatiana Udry
+------------------------
+Tatiana Udry and JB Mino are from Montpellier, France, and are the shooting
+stars of todays Lindy hop. They have won numerous competitions in Lindy hop,
+Jack & Jill as well as in the Team Division. They teach Lindy hop, Partner and
+Solo Charleston and impress with the easiness of their moves and their strong
+connection that make them outstanding social dancers as well. Watch them dance
+and improvise and get inspired by their creativity and joy!
 
 Pamela Gaizutyte
 ----------------
 Pamela has been dancing since she was 5 years old. She did traditional
-Lithuanian folk dancing for years, until she found her passion in lindy
+Lithuanian folk dancing for years, until she found her passion in Lindy
 hop at the age of sixteen. In 2009, she began working at Hoppers' Dance
 Studio in her hometown of Vilnius, Lithuania, where she surrounds
 herself with rhythm on a daily basis as she practices, performs, and
-teaches lindy hop and vernacular jazz.
+teaches Lindy hop and vernacular jazz.
 
 Pamela Gaizutyte is one of the most exciting followers to burst onto the
 international swing scene in recent years. Her creativity, personal style
@@ -61,7 +56,7 @@ Ksenia Parkhatskaya
 Graceful, eccentric, and full of character, Ksenia is one of the most
 interesting and versatile artists in the jazz and swing world today.
 Whether she is twisting crazy “cow tail” in Charleston, dancing to
-be­bop, swinging out in Lindy Hop or singing with Jazz Bands, she
+be­bop, swinging out in Lindy hop or singing with Jazz Bands, she
 imbues everything she does with unique style and artistry.
 
 She exploded onto the swing scene at Harlem 2011 (Vilnius), in the
