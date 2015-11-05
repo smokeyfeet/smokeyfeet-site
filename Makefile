@@ -1,4 +1,5 @@
 HUGO=hugo
+RSYNC=rsync
 
 .PHONY: public
 public:
@@ -16,3 +17,11 @@ clean:
 .PHONY: serve
 serve:
 	$(HUGO) server -D -w
+
+.PHONY: publish-vagrant
+publish-vagrant: public
+	$(RSYNC) -az --delete --force --progress public/* vagrant@www.smokeyfeet.dev:www.smokeyfeet.dev
+
+.PHONY: publish-production
+publish-production: public
+	$(RSYNC) -az --delete --force --progress public/* www.smokeyfeet.com:/var/www/www.smokeyfeet.com
