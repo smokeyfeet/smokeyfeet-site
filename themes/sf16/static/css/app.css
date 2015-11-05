@@ -4,34 +4,46 @@
 
 #intro {
   padding-top: 0.5em;
-  background-color: #086885;
+  background-color: #b44c31;
   color: #fff;
 }
 
 #dates {
-  background-color: #086885;
+  background-color: #b44c31;
 }
 
 #teachers {
-  background-color: #C2B6B0;
+  background-color: #3c878e;
   padding-top: 0.5em;
 }
 
+#teachers h1, h2, h3, h4, h5, h6 {
+  color: #fff;
+}
+
+#teachers h5.subheader {
+  color: #fff;
+}
+
+#teachers div.panel h5.subheader {
+  color: #fff;
+}
+
 #music {
-  background-color: #f9f4ef;
+  background-color: #c2bca6;
   padding-top: 0.5em;
 }
 
 body {
-  font-family: Merriweather, serif;
+  font-family: Bitter, serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: Merriweather, serif;
+h1, h2, h3 {
+  font-family: Montserrat, serif;
 }
 
-h1 {
-  color: #E85110;
+h4, h5, h6 {
+  font-family: Bitter, serif;
 }
 
 #site-footer {
