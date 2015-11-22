@@ -1,36 +1,25 @@
 #splash {
-  background-color: #fff;
+  background-color: $beige;
 }
 
 #intro {
   padding-top: 0.5em;
-  background-color: #b44c31;
+  background-color: $orange;
   color: #fff;
 }
 
 #dates {
-  background-color: #b44c31;
+  background-color: $orange;
+  color: #fff;
 }
 
 #teachers {
-  background-color: #3c878e;
+  background-color: $blue;
   padding-top: 0.5em;
 }
 
-#teachers h1, h2, h3, h4, h5, h6 {
-  color: #fff;
-}
-
-#teachers h5.subheader {
-  color: #fff;
-}
-
-#teachers div.panel h5.subheader {
-  color: #fff;
-}
-
 #music {
-  background-color: #c2bca6;
+  background-color: $beige;
   padding-top: 0.5em;
 }
 

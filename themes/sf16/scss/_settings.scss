@@ -117,6 +117,11 @@ $font-family-serif: Bitter, Georgia, Cambria, "Times New Roman", Times, serif;
 // $jet         : #222222;
 // $black       : #000000;
 
+$white: #ffffff;
+$beige: #c2bca6;
+$blue: #3c878e;
+$orange: #b44c31;
+
 // We use these as default colors throughout
 // $primary-color: #008CBA;
 // $secondary-color: #e7e7e7;
@@ -124,6 +129,8 @@ $font-family-serif: Bitter, Georgia, Cambria, "Times New Roman", Times, serif;
 // $success-color: #43AC6A;
 // $warning-color: #f08a24;
 // $info-color: #a0d3e8;
+$primary-color: $blue;
+$secondary-color: $orange;
 
 // We use these to control various global styles
 // $body-bg: $white;
@@ -131,6 +138,8 @@ $font-family-serif: Bitter, Georgia, Cambria, "Times New Roman", Times, serif;
 // $body-font-family: $font-family-sans-serif;
 // $body-font-weight: $font-weight-normal;
 // $body-font-style: normal;
+$body-bg: $white;
+$body-font-color: $blue;
 $body-font-family: $font-family-serif;
 
 // We use this to control font-smoothing
@@ -221,6 +230,7 @@ $body-font-family: $font-family-serif;
 // $header-top-margin: .2rem;
 // $header-bottom-margin: .5rem;
 // $header-text-rendering: optimizeLegibility;
+$header-font-color: $white;
 $header-font-family: $font-family-sans-serif;
 
 // We use these to control header font sizes
