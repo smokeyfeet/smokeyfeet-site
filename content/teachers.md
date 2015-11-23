@@ -34,6 +34,26 @@ Solo Charleston and impress with the easiness of their moves and their strong
 connection that make them outstanding social dancers as well. Watch them dance
 and improvise and get inspired by their creativity and joy!
 
+Martynas Stonys & Egle Regelskis
+--------------------------------
+Martynas Stonys and Egle Regelskis are one of the leading Lindy Hop couples in
+Vilnius, Lithuania. Since opening Hoppers’ dance studio in Vilnius Martynas
+and Egle are making lithuanian swing dance scene thrive. Besides teaching
+they are running Hoppers’ dance studio and swing dance events with the goal
+of helping new lithuanian swing dance talents emerge.
+
+Since 2010 they’ve been travelling abroad to teach in various swing events.
+In classes they combine fun, great teaching, dance technique and help you
+enjoy dancing more than ever! Both of them believe Lindy Hop is a dance,
+where two dancers move their bodies, affect and inspire each other. Leading
+and following would be rarely mentioned in our classes, but lots of eyes
+opening ideas will be spread.
+
+Known for their technicality and energy in their dancing they already have
+won a few Lindy Hop Strictly and Jack’n’Jill competitions all over Europe.
+And their most recent Lindy Hop Showcase took 2nd place in European Swing
+Dance Championships 2015.
+
 Pamela Gaizutyte
 ----------------
 Pamela has been dancing since she was 5 years old. She did traditional

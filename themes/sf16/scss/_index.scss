@@ -1,32 +1,43 @@
-#splash {
+.content {
+  padding-top: rem-calc(20);
+  padding-bottom: rem-calc(20);
+}
+
+.splash {
   background-color: $beige;
 }
 
-#intro {
-  padding-top: 0.5em;
+.intro {
   background-color: $orange;
-  color: #fff;
+  color: $white;
 }
 
-#dates {
+.dates {
   background-color: $orange;
-  color: #fff;
+  color: $white;
 }
 
-#teachers {
+.teachers {
   background-color: $blue;
-  padding-top: 0.5em;
+  color: $white;
 }
 
-#music {
+.music {
   background-color: $beige;
-  padding-top: 0.5em;
+  color: $white;
 }
 
-#site-footer {
-  padding-top: 1em;
+.site-footer {
+  padding-top: rem-calc(50);
 }
 
-.vcard {
-  border: none;
+.event-date {
+  border-style: solid;
+  margin-bottom: rem-calc(10);
+
+  .event-date-head {
+    background-color: $white;
+    color: $black;
+  }
 }
+
