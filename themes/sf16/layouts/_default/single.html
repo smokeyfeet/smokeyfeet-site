@@ -1,23 +1,18 @@
 {{ partial "header.html" . }}
 {{ partial "navigation.html" . }}
 
-<section>
-  <div class="row">
-    <div class="large-12 columns">
-      <article>
-        <header>
-          <h1 class="title">{{ .Title }}</h1>
-          <h2 class="subtitle">{{ .Description }}</h2>
-        </header>
+<section class="content">
+  <div class="row columns">
+    <article>
+      <header>
+        <h1 class="title">{{ .Title }}</h1>
+        <h2 class="subtitle">{{ .Description }}</h2>
+      </header>
 
-        <section>
-        {{ .Content }}
-        </section>
-
-        <footer>
-        </footer>
-      </article>
-    </div>
+      <section>
+      {{ .Content }}
+      </section>
+    </article>
   </div>
 </section>
 

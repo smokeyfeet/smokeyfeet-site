@@ -25,8 +25,8 @@ dancing to the next level.
 
 http://www.youtube.com/watch?v=LqwC4pnnwtQ
 
-JB Mino and Tatiana Udry
-------------------------
+JB Mino & Tatiana Udry
+----------------------
 Tatiana Udry and JB Mino are from Montpellier, France, and are the shooting
 stars of todays Lindy hop. They have won numerous competitions in Lindy hop,
 Jack & Jill as well as in the Team Division. They teach Lindy hop, Partner and
@@ -36,8 +36,8 @@ and improvise and get inspired by their creativity and joy!
 
 Martynas Stonys & Egle Regelskis
 --------------------------------
-Martynas Stonys and Egle Regelskis are one of the leading Lindy Hop couples in
-Vilnius, Lithuania. Since opening Hoppers’ dance studio in Vilnius Martynas
+Martynas Stonys and Egle Regelskis are one of the leading Lindy Hop couples
+in Vilnius, Lithuania. Since opening Hoppers’ dance studio in Vilnius Martynas
 and Egle are making lithuanian swing dance scene thrive. Besides teaching
 they are running Hoppers’ dance studio and swing dance events with the goal
 of helping new lithuanian swing dance talents emerge.
@@ -53,6 +53,10 @@ Known for their technicality and energy in their dancing they already have
 won a few Lindy Hop Strictly and Jack’n’Jill competitions all over Europe.
 And their most recent Lindy Hop Showcase took 2nd place in European Swing
 Dance Championships 2015.
+
+Nicolas Deniau
+--------------
+This guys needs no introduction. ;)
 
 Pamela Gaizutyte
 ----------------
