@@ -1,0 +1,41 @@
+.splash {
+  background-color: $beige;
+}
+
+.intro {
+  background-color: $orange;
+  color: $white;
+}
+
+.dates {
+  background-color: $orange;
+  color: $white;
+
+  small {
+    color: $black;
+  }
+}
+
+.teachers {
+  background-color: $blue;
+  color: $white;
+
+  h4 {
+    color: $white;
+  }
+}
+
+.music {
+  background-color: $beige;
+  color: $white;
+}
+
+.event-date {
+  border-style: solid;
+  margin-bottom: rem-calc(10);
+
+  .event-date-head {
+    background-color: $white;
+    color: $black;
+  }
+}

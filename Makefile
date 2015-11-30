@@ -16,7 +16,7 @@ clean:
 
 .PHONY: serve
 serve:
-	$(HUGO) server -D -w
+	$(HUGO) server -D
 
 .PHONY: publish-vagrant
 publish-vagrant: public

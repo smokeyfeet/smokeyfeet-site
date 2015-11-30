@@ -1,18 +1,57 @@
-<div class="fixed">
-  <nav class="top-bar" data-topbar role="navigation">
-    <ul class="title-area">
-      <li class="name"><h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1></li>
-      <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
-    </ul>
+<header class="site-header">
 
-    <!--
-    <section class="top-bar-section">
-      <ul class="right">
-        <li><a href="{{ .Site.BaseURL }}/news">News</a></li>
-        <li><a href="{{ .Site.BaseURL }}/teachers">Teachers</a></li>
-        <li><a href="{{ .Site.BaseURL }}/bands">Bands</a></li>
+<!--
+  <div class="title-bar" data-responsive-toggle="top-bar-menu" data-hide-for="medium">
+    <button class="menu-icon" type="button" data-toggle></button>
+    <div class="title-bar-title">{{ .Site.Title }}</div>
+  </div>
+-->
+
+  <div class="top-bar" id="top-bar-menu">
+    <div class="top-bar-left show-for-small">
+      <ul class="menu">
+        <li class="menu-text">{{ .Site.Title }}</li>
       </ul>
-    </section>
-    -->
-  </nav>
+    </div>
+    <div class="top-bar-right">
+      <ul id="menu-main" class="vertical medium-horizontal menu"
+          data-responsive-menu="accordion medium-dropdown">
+{{ $currentNode := . }}
+{{ range .Site.Menus.main }}
+        {{ if .HasChildren }}
+        <li>
+          {{ .Pre }}<a href="">{{ .Name }}</a>
+          <ul class="vertical nested menu" data-submenu>
+          {{ range .Children }}
+            <li>{{ .Pre }}<a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
+          </ul>
+        </li>
+        {{ else }}
+        <li>{{ .Pre }}<a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}
+{{ end }}
+      </ul>
+    </div>
+  </div>
+</header>
+
+<!--
+<div class="top-bar" id="top-bar-menu">
+  <div class="top-bar-left hide-for-small-only">
+    <ul class="vertical medium-horizontal menu">
+      <li class="menu-text menu-bar-title">{{ .Site.Title }}</li>
+    </ul>
+  </div>
+  <div class="top-bar-right show-for-small">
+    <ul class="vertical medium-horizontal menu"
+        data-responsive-menu="accordion medium-dropdown">
+      <li><a href="/">Home</a></li>
+      <li><a href="services">Services</a>
+      <ul class="menu vertical nested">
+        <li><a href="item.html">Sub Item</a></li>
+      </ul>
+    </ul>
+  </div>
 </div>
+-->

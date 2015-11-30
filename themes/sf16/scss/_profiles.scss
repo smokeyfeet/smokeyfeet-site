@@ -1,0 +1,12 @@
+.callout-profile
+{
+  @include callout($white);
+
+  border: none;
+
+
+  h5 {
+    color: $blue;
+    font-family: $font-family-serif;
+  }
+}

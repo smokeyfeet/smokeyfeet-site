@@ -1,30 +1,28 @@
-<footer id="site-footer">
+<footer class="site-footer">
   <div class="row">
-    <div class="large-6 columns">
-      <div class="row">
-        <div class="large-6 medium-6 small-6 columns">
-          <ul class="no-bullet">
-{{ with .Site.Params.facebookUrl }}
-            <li><a href="{{ . }}"><i class="fi-social-facebook large"></i></a></li>
-{{ end }}
-{{ with .Site.Params.twitterUrl }}
-            <li><a href="{{ . }}"><i class="fi-social-twitter large"></i></a></li>
-{{ end }}
-          </ul>
-          <p><i>Follow us on Facebook</i></p>
-        </div>
-        <div class="large-6 medium-6 small-6 columns">
-        </div>
-      </div>
-    </div>
-
-    <div class="large-6 columns">
-      <ul class="vcard">
+    <div class="large-12 columns">
+      <ul class="no-bullet">
         <li class="fn">Stichting Smokey Feet</li>
         <li class="street-address">Lange Leidsedwarsstraat 115-2</li>
         <li class="locality">1017 NJ Amsterdam</li>
         <li><span class="state">The Netherlands</span></li>
         <li>KvK: 64013359</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="large-12 columns">
+      <ul class="no-bullet text-right">
+{{ with .Site.Params.facebookUrl }}
+        <li><a href="{{ . }}"><i class="fi-social-facebook large"></i></a></li>
+{{ end }}
+{{ with .Site.Params.twitterUrl }}
+        <li><a href="{{ . }}"><i class="fi-social-twitter large"></i></a></li>
+{{ end }}
+{{ with .Site.Params.youtubeUrl }}
+        <li><a href="{{ . }}"><i class="fi-social-youtube large"></i></a></li>
+{{ end }}
       </ul>
     </div>
   </div>

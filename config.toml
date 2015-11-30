@@ -8,4 +8,34 @@ authorName = "Smokey Feet Crew"
 description = "International Swing Dance Festival"
 googleAnalyticsTrackingId = "UA-69088748-1"
 facebookUrl = "//facebook.com/Smokey-Feet-181498711899234"
+#youtubeUrl = "//www.youtube.com/user/SmokeyFeet"
 #twitterUrl = "//twitter.com/smokeyfeet"
+
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    url = "/about/"
+    weight = 10
+[[menu.main]]
+    name = "Workshop"
+    identifier = "workshop"
+    weight = 20
+[[menu.main]]
+    name = "Parties"
+    identifier = "parties"
+    url = "/parties/"
+    weight = 30
+[[menu.main]]
+    name = "Artists"
+    identifier = "artists"
+    weight = 40
+[[menu.main]]
+    name = "Registration"
+    identifier = "registration"
+    url = "/registration/"
+    weight = 50
+[[menu.main]]
+    name = "News"
+    identifier = "news"
+    url = "/news/"
+    weight = 60
