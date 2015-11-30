@@ -4,15 +4,23 @@ draft = true
 title = "Registration"
 +++
 
-This year we will offer two different kinds of passes:
+_Registration opens January, 2016._
 
-- Full Pass €200: 5 parties, 2 days of classes on Saturday
-  and Sunday, access to all tasters
+This year we're offering full passes and party passes.
 
-- Party Pass €85 : Access to all 5 parties
+## Full Pass
 
-Before you register, please take a look at the different levels we offer. We
-have five levels, check them out under ‘Level Description’ to see which level
-suits you best!
+* Entry to all 5 parties
+* Saturday and Sunday classes
+* Access to all tasters
+* Price: **€200**
 
-Single tickets for parties will be sold at the door.
+_Before you register, please see which [level](/workshop/levels/) suits
+you best!_
+
+## Party Pass
+
+* Entry to all 5 parties
+* Price: **€85**
+
+_Single tickets for parties will be sold at the door._

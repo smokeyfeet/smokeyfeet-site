@@ -11,25 +11,26 @@ part of **Amsterdam** and **Diemen**. When you are looking for a place to stay,
 please keep this in mind. All our venues are easy to reach by public
 transport and bike.
 
-## Accomodation & Hosting
+## Accommodation & Hosting
 
 Soon we'll start a Facebook group where you can get in contact with
 hosts. We will let you know where to find it.
 
 For (semi-)private accommodation we recommend the following websites:
 
- * Where to stay: http://www.iamsterdam.com/en/visiting/plan-your-trip/where-to-stay
- * Air BnB: https://www.airbnb.com/s/Amsterdam%E2%80%93The-Netherlands
- * Stayokay: http://www.stayokay.com/nl
+ * I Amsterdam - [Where to stay](http://www.iamsterdam.com/en/visiting/plan-your-trip/where-to-stay)
+ * [Airbnb](https://www.airbnb.com/s/Amsterdam%E2%80%93The-Netherlands)
+ * [Stayokay](http://www.stayokay.com/nl)
 
 ## Venues
 
 ### Theater de Omval
 
-> Ouddiemerlaan 104
-> 1111 HL Diemen
-> http://www.theaterdeomval.nl
-> +31206001897
+The Friday, Saturday and Sunday parties will be held at Theater de Omval.
+
+* [Theader de Omval](http://www.theaterdeomval.nl)
+* Ouddiemerlaan 104, 1111 HL Diemen
+* +31206001897
 
 <div class="text-center">
 <iframe width="425" height="350" frameborder="0" scrolling="no"
@@ -42,11 +43,11 @@ Larger Map</a></small>
 
 ### Sportcentrum Universum
 
-> Sportcentrum Universum
-> Science Park 306
-> 1098 XH Amsterdam
-> www.usc.uva.nl
-> +31205258955
+Saturday and Sunday classes will be given at the Universum sport center.
+
+* [Sportcentrum Universum](http://www.usc.uva.nl)
+* Science Park 306, 1098 XH Amsterdam
+* +31205258955
 
 <div class="text-center">
 <iframe width="425" height="350" frameborder="0" scrolling="no"
@@ -76,17 +77,17 @@ However, if you want to stay out late, renting a bike is the better option.
 
 Bike rental shops:
 
- * At Amsterdam Amstel station: http://www.amstelfietspoint.nl/verhuur/
- * Close to Amsterdam Central station: http://www.rentabike.nl/
- * A bit more expensive: at Amsterdam Central station http://www.macbike.nl/fietsverhuur/
+ * At [Amsterdam **Amstel** station](http://www.amstelfietspoint.nl/verhuur/)
+ * Close to [Amsterdam **Central** station](http://www.rentabike.nl/)
+ * A bit more expensive: at [Amsterdam **Central** station](http://www.macbike.nl/fietsverhuur/)
 
 Planning to use public transport and want to look at the possibilities? Find
 everything you need on:
 
- * http://www.ns.nl/en/travellers/home (Trains)
- * http://9292.nl/en (all public transport including trams, metro’s, busses, trains)
- * http://en.gvb.nl/
+ * [NS](http://www.ns.nl/en/travellers/home) - Train info and schedule
+ * [9292](http://9292.nl/en) - All public transport including trams, metro's, busses, trains
+ * [GVB](http://en.gvb.nl/)
 
 Also a nice website about being a tourist and getting around in Amsterdam:
 
- * https://www.iamsterdam.com/en/visiting/plan-your-trip/getting-around
+ * I Amsterdam - [Getting Around](https://www.iamsterdam.com/en/visiting/plan-your-trip/getting-around)

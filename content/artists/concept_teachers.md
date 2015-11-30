@@ -15,15 +15,15 @@ since become international teachers, mainly due to their aptitude to understand
 the fundamentals of good movement (dancing) and explaining it in an graspable
 and applicable way.
 
-David is an addicted social dancer. You’ll rarely see him not dancing while
-there is groovy swing music playing. He’s also a geek, that cannot avoid
-himself of deconstructing the nuclear bio-mechanics and rhythmic structure of
+David is an addicted social dancer. You'll rarely see him not dancing while
+there is groovy swing music playing. He's also a geek, that cannot avoid
+himself of de-constructing the nuclear bio-mechanics and rhythmic structure of
 the dance and music. And he loves to share this knowledge/vision almost as much
 as he loves hugs.
 
-Cátia is a person’s person. She’s always caring for everybody, and it shows
+Cátia is a person's person. She's always caring for everybody, and it shows
 when it comes to teaching where she uses an intuitive and organic approach to
-bring out to the best in each student. You’ll rarely see her not smiling.
+bring out to the best in each student. You'll rarely see her not smiling.
 
 ## Marcus & Marianne
 
@@ -52,8 +52,8 @@ love at first sight. She loves social dancing, competing, choreographing and
 performing in both Lindy Hop and authentic jazz, using isolations and other
 street dance elements as part of her unique style.
 
-Ever since discovering Lindy Hop at the Copenhagen Jazz Festival, Martin’s been
+Ever since discovering Lindy Hop at the Copenhagen Jazz Festival, Martin's been
 pushing his dance by competing, teaching, performing and his favourite: social
-dancing. His musical intuition comes from an odd mix of his dad’s love of big
+dancing. His musical intuition comes from an odd mix of his dad's love of big
 band jazz, playing the drums as a teenager and a brief spell as a house DJ in
 London.
