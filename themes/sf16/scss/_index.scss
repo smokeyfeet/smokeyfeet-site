@@ -10,11 +10,19 @@
 .dates {
   background-color: $orange;
   color: $white;
+
+  small {
+    color: $black;
+  }
 }
 
 .teachers {
   background-color: $blue;
   color: $white;
+
+  h4 {
+    color: $white;
+  }
 }
 
 .music {

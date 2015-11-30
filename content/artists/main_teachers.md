@@ -1,11 +1,15 @@
 +++
 date = "2015-10-17T16:28:31+02:00"
 draft = true
-title = "Teachers"
+title = "Main Teachers"
+
+[menu.main]
+parent = "artists"
+weight = 10
 +++
 
-Ali & Katja
------------
+## Ali & Katja
+
 It was love at first dance: Ali & Katja have been dancing together ever
 since they met on a Paris dance floor in 2003. Based in Heidelberg,
 Germany, they are working to spread the Lindy hop through their
@@ -25,8 +29,8 @@ dancing to the next level.
 
 http://www.youtube.com/watch?v=LqwC4pnnwtQ
 
-JB Mino & Tatiana Udry
-----------------------
+## JB Mino & Tatiana Udry
+
 Tatiana Udry and JB Mino are from Montpellier, France, and are the shooting
 stars of todays Lindy hop. They have won numerous competitions in Lindy hop,
 Jack & Jill as well as in the Team Division. They teach Lindy hop, Partner and
@@ -34,8 +38,8 @@ Solo Charleston and impress with the easiness of their moves and their strong
 connection that make them outstanding social dancers as well. Watch them dance
 and improvise and get inspired by their creativity and joy!
 
-Martynas Stonys & Egle Regelskis
---------------------------------
+## Martynas Stonys & Egle Regelskis
+
 Martynas Stonys and Egle Regelskis are one of the leading Lindy Hop couples
 in Vilnius, Lithuania. Since opening Hoppers’ dance studio in Vilnius Martynas
 and Egle are making lithuanian swing dance scene thrive. Besides teaching
@@ -54,12 +58,16 @@ won a few Lindy Hop Strictly and Jack’n’Jill competitions all over Europe.
 And their most recent Lindy Hop Showcase took 2nd place in European Swing
 Dance Championships 2015.
 
-Nicolas Deniau
---------------
-This guys needs no introduction. ;)
+## Nicolas Deniau
 
-Pamela Gaizutyte
-----------------
+Nicolas attended his first Rock'n Roll dance class at the age of 8 and after
+only one year of dancing he took part in his first competition. This was the
+start of a long competition career in Rock'n Roll and Boogie Woogie. He was
+early drawn to the show aspect of the dance which you can still see in his
+dancing!
+
+## Pamela Gaizutyte
+
 Pamela has been dancing since she was 5 years old. She did traditional
 Lithuanian folk dancing for years, until she found her passion in Lindy
 hop at the age of sixteen. In 2009, she began working at Hoppers' Dance
@@ -75,8 +83,8 @@ and faraway places to do so.
 
 https://www.youtube.com/playlist?list=PLo4YOfZMTLjMxsEJwvTlLSMrDtypTvsNC
 
-Ksenia Parkhatskaya
--------------------
+## Ksenia Parkhatskaya
+
 Graceful, eccentric, and full of character, Ksenia is one of the most
 interesting and versatile artists in the jazz and swing world today.
 Whether she is twisting crazy “cow tail” in Charleston, dancing to

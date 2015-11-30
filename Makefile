@@ -15,4 +15,4 @@ clean:
 
 .PHONY: serve
 serve:
-	$(HUGO) server -D -w
+	$(HUGO) server -D
