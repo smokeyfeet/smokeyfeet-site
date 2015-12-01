@@ -1,6 +1,5 @@
 +++
 date = "2015-10-17T16:28:31+02:00"
-draft = true
 title = "Main Teachers"
 
 [menu.main]

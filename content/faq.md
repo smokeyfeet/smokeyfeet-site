@@ -1,6 +1,5 @@
 +++
 date = "2015-11-30T22:54:20+01:00"
-draft = true
 title = "FAQ"
 +++
 
