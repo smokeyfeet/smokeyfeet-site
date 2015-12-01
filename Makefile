@@ -1,5 +1,7 @@
 HUGO=hugo
 RSYNC=rsync
+CSS_HASH:=$(shell git log -1 --format='%h')
+export CSS_HASH
 
 .PHONY: public
 public:
