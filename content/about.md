@@ -40,15 +40,6 @@ The Friday, Saturday and Sunday parties will be held at Theater de Omval.
 * Ouddiemerlaan 104, 1111 HL Diemen
 * +31206001897
 
-<div class="text-center">
-<iframe width="425" height="350" frameborder="0" scrolling="no"
-marginheight="0" marginwidth="0"
-src="http://www.openstreetmap.org/export/embed.html?bbox=4.963540434837341%2C52.341084801483355%2C4.965927600860596%2C52.34307416419911&amp;layer=mapnik&amp;marker=52.34207949402938%2C4.9647340178489685"
-style="border: 1px solid black"></iframe><br/><small><a
-href="http://www.openstreetmap.org/?mlat=52.34208&amp;mlon=4.96473#map=18/52.34208/4.96473">View
-Larger Map</a></small>
-</div>
-
 ### Sportcentrum Universum
 
 Saturday and Sunday classes will again take place at the Universum Sport Center.
@@ -56,15 +47,6 @@ Saturday and Sunday classes will again take place at the Universum Sport Center.
 * [Sportcentrum Universum](http://www.usc.uva.nl)
 * Science Park 306, 1098 XH Amsterdam
 * +31205258955
-
-<div class="text-center">
-<iframe width="425" height="350" frameborder="0" scrolling="no"
-marginheight="0" marginwidth="0"
-src="http://www.openstreetmap.org/export/embed.html?bbox=4.9543726444244385%2C52.353796172573944%2C4.959146976470947%2C52.35777366462224&amp;layer=mapnik&amp;marker=52.355785452108975%2C4.956758100000002"
-style="border: 1px solid black"></iframe><br/><small><a
-href="http://www.openstreetmap.org/?mlat=52.35579&amp;mlon=4.95676#map=17/52.35579/4.95676">View
-Larger Map</a></small>
-</div>
 
 ## Finding Your Way
 
