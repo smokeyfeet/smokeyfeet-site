@@ -12,7 +12,7 @@ This year we're offering full passes and party passes.
 
 * Entry to all 5 parties
 * Saturday and Sunday classes
-* Access to all tasters
+* Access to all concept classes
 * Price: **€200**
 
 _Before you register, please see which [level](/workshop/levels/) suits

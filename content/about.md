@@ -4,6 +4,15 @@ draft = true
 title = "About"
 +++
 
+## Contact
+
+From time to time we'll post news on the Facebook
+[Smokey Feet Community](https://www.facebook.com/Smokey-Feet-181498711899234)
+page. Like us if you want to stay up to date. We even reply
+to messages. ;)
+
+If you have questions don't hesitate to mail us at <smokeyfeet2016@gmail.com>.
+
 ## Location
 
 This year the workshop classes and parties will take place in the eastern

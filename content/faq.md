@@ -30,6 +30,6 @@ the competitions at the Friday party.
 
 #### Can I volunteer?
 
-Yes! Events like these are run by volunteers and we can use all the help we can
-get! If you want to volunteer, please send an email to smokeyfeet2016@gmail.com
-and we will hook you up!
+Yes! Events like these are run by volunteers and we can use all the help
+we can get. If you want to volunteer, please [contact](/about/) us and we'll
+hook you up!
