@@ -24,10 +24,10 @@ title = "Terms & Conditions"
 ## Rules to be respected during the camp
 
 - The attendee will follow dance classes according to the camp schedule
-  and to the level he/she has been assigned to</li>
+  and to the level he/she has been assigned to
 
 - When audition is applicable, levels are assigned by the teachers, whose
-  judgment is unquestionable</li>
+  judgment is unquestionable
 
 - The teachers can decide to change attendees' level at any time and in
   all classes
@@ -43,13 +43,14 @@ title = "Terms & Conditions"
 
 ## Cancellation & Refund Policies
 
-Registration to the camp can be cancelled by attendees, with the following reimbursement rules:
+Registration to the camp can be canceled by attendees, with the
+following reimbursement rules:
 
 - 90% of the camp fee will be reimbursed for cancellations happening
   no later than 30 days before the camp start date
 
 - 50% of the camp fee will be reimbursed for cancellations between 30
-   and 10 days before the camp start date</li>
+  and 10 days before the camp start date
 
 - NO refund for cancellations happening later than 10 days before the
   camp start date

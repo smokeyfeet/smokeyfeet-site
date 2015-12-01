@@ -7,9 +7,9 @@ title = "About"
 ## Location
 
 This year the workshop classes and parties will take place in the eastern
-part of **Amsterdam** and **Diemen**. When you are looking for a place to stay,
-please keep this in mind. All our venues are easy to reach by public
-transport and bike.
+part of **Amsterdam** and **Diemen**. When looking for a place to stay,
+please keep this in mind. All the venues are easy to reach by public
+transport and bicycle.
 
 ## Accommodation & Hosting
 
@@ -43,7 +43,7 @@ Larger Map</a></small>
 
 ### Sportcentrum Universum
 
-Saturday and Sunday classes will be given at the Universum sport center.
+Saturday and Sunday classes will again take place at the Universum Sport Center.
 
 * [Sportcentrum Universum](http://www.usc.uva.nl)
 * Science Park 306, 1098 XH Amsterdam
@@ -69,10 +69,10 @@ attractions than by pedal power. Cycling in Amsterdam is practical, enjoyable
 and healthy - so join the locals and hop on your bike. Renting a bike is one
 of the best ways to get around town.
 
-Since our venues are located at biking distance from each other it will be
-easiest to rent a bike as well! It is a cheap and easy solution to making
-your way around town. We have listed some bike-rental shops that are also in
-the East of Amsterdam. There is a large public transport network in Amsterdam.
+Since our venues are within biking distance of each other it is worth it
+to rent a bike as well! It is a cheap and easy solution to make your way
+around town. We have listed some bike-rental shops that are also in the
+East of Amsterdam. There is a large public transport network in Amsterdam.
 However, if you want to stay out late, renting a bike is the better option.
 
 Bike rental shops:

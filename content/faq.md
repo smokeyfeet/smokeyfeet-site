@@ -6,7 +6,7 @@ title = "FAQ"
 
 #### When can I register?
 
-Registration opens in January 2016. The exact date will be announced shortly. 
+Registration opens in January 2016. The exact date will be announced shortly.
 
 #### Why do I have to send in a video-audition if I want to join the highest level?
 
@@ -26,7 +26,7 @@ Try to find a place around this area so you won't have to travel far!
 
 Yes, we will have a Jack and Jill, Strictly and Solo competition. You can sign
 up during your registration. If there are places left you can also register for
-the competitions at the Friday party. 
+the competitions at the Friday party.
 
 #### Can I volunteer?
 

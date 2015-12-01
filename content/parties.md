@@ -16,15 +16,15 @@ We're organizing the following competitions:
  * Strictly
  * Solo
 
-You can sign up to join the competitions during the online
-registration. If spots are still available on Friday you may
-also sign up at the registration desk.
+You can sign up to join the competitions during the online registration.
+If spots are still available on Friday you may also sign up at the
+registration desk.
 
 ## Preliminary Schedule
 
 ### Thursday
 
-Pre-party with TBA at TBA :)
+Pre-party with TBA at TBA ;)
 
 ### Friday
 
