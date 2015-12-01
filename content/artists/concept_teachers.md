@@ -25,6 +25,14 @@ Cátia is a person's person. She's always caring for everybody, and it shows
 when it comes to teaching where she uses an intuitive and organic approach to
 bring out to the best in each student. You'll rarely see her not smiling.
 
+## David Hutuely
+
+_Lyrical Jazz, Sunday_
+
+## Frie Trustfull
+
+_Hiphop, Saturday_
+
 ## Marcus & Marianne
 
 Marianne is a dancer and a psychologist by trade. Marcus is a mathematician.

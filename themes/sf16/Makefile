@@ -1,0 +1,3 @@
+
+build:
+	foundation build
