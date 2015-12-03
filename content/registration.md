@@ -3,7 +3,7 @@ date = "2015-10-11T14:54:06+02:00"
 title = "Registration"
 +++
 
-_Registration opens January, 2016._
+**Registration opens on the 8th of January 2016.**
 
 This year we're offering full passes and party passes.
 

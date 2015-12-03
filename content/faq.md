@@ -5,7 +5,7 @@ title = "FAQ"
 
 #### When can I register?
 
-Registration opens in January 2016. The exact date will be announced shortly.
+Registration opens on the 8th of January 2016.
 
 #### Why do I have to send in a video-audition if I want to join the highest level?
 
