@@ -16,8 +16,7 @@ If you have questions don't hesitate to mail us at <smokeyfeet2016@gmail.com>.
 
 This year the workshop classes and parties will take place in the eastern
 part of **Amsterdam** and **Diemen**. When looking for a place to stay,
-please keep this in mind. All the venues are easy to reach by public
-transport and bicycle.
+please keep this in mind.
 
 ## Accommodation & Hosting
 
@@ -39,9 +38,9 @@ Theater de Omval is in the heart of Diemen, about 10 minutes biking from the
 class venue. The Theater has a playful atmosphere and a big hall for dancing.
 The party will be spread out over two levels. The ground floor is the relaxing
 area where the registration desk and cozy café are located. Upstairs is the
-main ballroom with a wooden floor and amazing high ceiling! Since the venue is
-located in the heart of Diemen, restaurants, supermarkets and an ATM are at
-walking distance.
+main ballroom with a wooden floor and amazing high ceiling! The venue is
+located in the heart of Diemen and thus restaurants, supermarkets and an ATM are
+within walking distance.
 
 The venue for our Thursday and Monday will be announced as soon as possible.
 
@@ -73,11 +72,12 @@ attractions than by pedal power. Cycling in Amsterdam is practical, enjoyable
 and healthy - so join the locals and hop on your bike. Renting a bike is one
 of the best ways to get around town.
 
-Since our venues are within biking distance of each other it is worth it
-to rent a bike as well! It is a cheap and easy solution to make your way
-around town. We have listed some bike-rental shops that are also in the
-East of Amsterdam. There is a large public transport network in Amsterdam.
-However, if you want to stay out late, renting a bike is the better option.
+Consider renting a bicycle because the two venues are within biking distance
+of each other. It is a cheap and easy solution to make your way around town.
+We have listed some bike-rental shops that are in the East of Amsterdam. There
+is a large public transport network in Amsterdam, however, there is reduced
+service at night. If you want to stay out late, renting a bike is the better
+option.
 
 Bike rental shops:
 
