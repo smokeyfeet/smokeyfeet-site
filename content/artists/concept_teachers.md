@@ -46,7 +46,7 @@ show group Lindy Deluxe that placed number one in the ESDC Swing Team Showcase
 When it comes to teaching they like the challenge of balancing core technique
 with playfulness in the dance.
 
-## Martin and Minou
+## Martin & Minou
 
 Martin and Minou have been dancing together since meeting at Herräng Dance Camp
 in 2012. They've danced their way through events and workshops in Europe and
