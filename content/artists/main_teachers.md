@@ -55,15 +55,13 @@ won a few Lindy Hop Strictly and Jack'n'Jill competitions all over Europe.
 And their most recent Lindy Hop Showcase took 2nd place in European Swing
 Dance Championships 2015.
 
-## Nicolas Deniau
+## Nicolas Deniau & Pamela Gaizutyte
 
 Nicolas attended his first Rock'n Roll dance class at the age of 8 and after
 only one year of dancing he took part in his first competition. This was the
 start of a long competition career in Rock'n Roll and Boogie Woogie. He was
 early drawn to the show aspect of the dance which you can still see in his
 dancing!
-
-## Pamela Gaizutyte
 
 Pamela has been dancing since she was 5 years old. She did traditional
 Lithuanian folk dancing for years, until she found her passion in Lindy
