@@ -7,7 +7,7 @@ parent = "artists"
 weight = 10
 +++
 
-## Ali Taghavi & Katja Uckermann
+## <a name="ali_katja"></a>Ali Taghavi & Katja Uckermann
 
 It was love at first dance: Ali & Katja have been dancing together ever
 since they met on a Paris dance floor in 2003. Based in Heidelberg,
@@ -26,7 +26,7 @@ yourself if you're "doing it right" outside the classroom. This way,
 you can continue to improve and practice on your own and take your
 dancing to the next level.
 
-## JB Mino & Tatiana Udry
+## <a name="jb_tatiana"></a>JB Mino & Tatiana Udry
 
 Tatiana Udry and JB Mino are from Montpellier, France, and are the shooting
 stars of todays Lindy hop. They have won numerous competitions in Lindy hop,
@@ -35,7 +35,7 @@ Solo Charleston and impress with the easiness of their moves and their strong
 connection that make them outstanding social dancers as well. Watch them dance
 and improvise and get inspired by their creativity and joy!
 
-## Martynas Stonys & Egle Regelskis
+## <a name="martynas_egle"></a>Martynas Stonys & Egle Regelskis
 
 Martynas Stonys and Egle Regelskis are one of the leading Lindy Hop couples
 in Vilnius, Lithuania. Since opening Hoppers' dance studio in Vilnius Martynas
@@ -55,7 +55,7 @@ won a few Lindy Hop Strictly and Jack'n'Jill competitions all over Europe.
 And their most recent Lindy Hop Showcase took 2nd place in European Swing
 Dance Championships 2015.
 
-## Nicolas Deniau & Pamela Gaizutyte
+## <a name="nicolas_pamela"></a>Nicolas Deniau & Pamela Gaizutyte
 
 Nicolas attended his first Rock'n Roll dance class at the age of 8 and after
 only one year of dancing he took part in his first competition. This was the
@@ -76,7 +76,7 @@ and sense of musicality are an inspiration. Pamela enjoys spreading the
 joy of dance and sharing her knowledge, and is excited to travel to new
 and faraway places to do so.
 
-## Ksenia Parkhatskaya
+## <a name="ksenia"></a>Ksenia Parkhatskaya
 
 Graceful, eccentric, and full of character, Ksenia is one of the most
 interesting and versatile artists in the jazz and swing world today.

@@ -7,7 +7,7 @@ parent = "artists"
 weight = 30
 +++
 
-## Professor Cunningham & his Old School (USA)
+## <a name="professor"></a>Professor Cunningham & his Old School (USA)
 
 This popular New York based band performs the most swinging and grooving
 repetoire deeply steeped in the New Orleans tradition; from early jazz
@@ -23,7 +23,7 @@ speakeasy shows (Shanghai Mermaid, Gemini and Scorpio, NY Hot Jazz
 Festival) and regularly performing to packed houses at some of the city's
 best swing venues (Cutting Room, Swing 46, The Back Room).
 
-## The Hot Sugar Band (France)
+## <a name="hot_sugar"></a>The Hot Sugar Band (France)
 
 The Hot Sugar Band is a real swingin’ time machine. One that takes you
 right back to the 1930′s ballrooms of Harlem, straight in to the golden
