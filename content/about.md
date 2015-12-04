@@ -20,8 +20,12 @@ please keep this in mind.
 
 ## Accommodation & Hosting
 
-Soon we'll start a Facebook group where you can get in contact with
-hosts. We will let you know where to find it.
+For hosting we've setup the [Smokey Feet Hosting Facebook Group]. If you
+need a place to stay you can post it here and come in contact with your
+future host! If you have a place for others in Amsterdam and surroundings
+you can advertise it here as well and find your future guest.
+
+[Smokey Feet Hosting Facebook Group]: https://www.facebook.com/groups/786669158122791/
 
 For (semi-)private accommodation we recommend the following websites:
 
