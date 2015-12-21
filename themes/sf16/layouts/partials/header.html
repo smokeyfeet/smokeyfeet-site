@@ -9,7 +9,6 @@
   {{ .Hugo.Generator }}
   <title>{{ .Site.Title }}</title>
   <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/app.css{{with getenv "CSS_HASH"}}?v={{.}}{{end}}" />
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/foundation-icons.css{{with getenv "CSS_HASH"}}?v={{.}}{{end}}" />
   <link href='https://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
   <script src="{{ .Site.BaseURL }}/js/vendor/modernizr.js"></script>
