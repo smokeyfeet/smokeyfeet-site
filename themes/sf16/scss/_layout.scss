@@ -1,0 +1,38 @@
+.content {
+  padding-top: rem-calc(20);
+  padding-bottom: rem-calc(20);
+}
+
+.main-content {
+  background-color: $beige;
+  padding-top: rem-calc(20);
+  padding-bottom: rem-calc(20);
+}
+
+.site-footer {
+  background-color: $orange;
+  color: $white;
+  padding-top: rem-calc(25);
+  padding-bottom: rem-calc(25);
+  padding-left: rem-calc(50);
+  padding-right: rem-calc(50);
+
+  a {
+    color: $beige;
+    text-decoration: $anchor-text-decoration;
+    line-height: inherit;
+    cursor: pointer;
+
+    &:hover,
+    &:focus {
+      color: $white;
+      @if $anchor-text-decoration-hover != $anchor-text-decoration {
+        text-decoration: $anchor-text-decoration-hover;
+      }
+    }
+
+    img {
+      border: 0;
+    }
+  }
+}

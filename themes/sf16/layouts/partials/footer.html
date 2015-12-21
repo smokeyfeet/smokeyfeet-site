@@ -1,6 +1,6 @@
 <footer class="site-footer">
   <div class="row">
-    <div class="large-12 columns">
+    <div class="large-6 columns">
       <ul class="no-bullet">
         <li class="fn">Stichting Smokey Feet</li>
         <li class="street-address">Lange Leidsedwarsstraat 115-2</li>
@@ -13,19 +13,16 @@
         <li>IBAN: NL31 TRIO 0254 7452 45</li>
       </ul>
     </div>
-  </div>
-
-  <div class="row">
-    <div class="large-12 columns">
-      <ul class="no-bullet text-right">
+    <div class="large-6 columns text-center">
+      <span>SF:</span>
 {{ with .Site.Params.facebookUrl }}
-        <li><a href="{{ . }}"><i class="fi-social-facebook large"></i></a></li>
+      <a href="{{ . }}" target="_blank">Facebook</a>
 {{ end }}
 {{ with .Site.Params.twitterUrl }}
-        <li><a href="{{ . }}"><i class="fi-social-twitter large"></i></a></li>
+      &nbsp;|&nbsp;<a href="{{ . }}" target="_blank">Twitter</a>
 {{ end }}
 {{ with .Site.Params.youtubeUrl }}
-        <li><a href="{{ . }}"><i class="fi-social-youtube large"></i></a></li>
+      &nbsp;|&nbsp;<a href="{{ . }}" target="_blank">YouTube</a>
 {{ end }}
       </ul>
     </div>
