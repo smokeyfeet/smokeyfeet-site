@@ -9,7 +9,7 @@ authorEmail = "smokeyfeet2016@gmail.com"
 description = "International Swing Dance Festival"
 googleAnalyticsTrackingId = "UA-69088748-1"
 facebookUrl = "//facebook.com/Smokey-Feet-181498711899234"
-#youtubeUrl = "//www.youtube.com/user/SmokeyFeet"
+youtubeUrl = "//www.youtube.com/user/SmokeyFeet"
 #twitterUrl = "//twitter.com/smokeyfeet"
 
 [[menu.main]]
