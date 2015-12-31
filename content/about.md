@@ -10,7 +10,7 @@ From time to time we'll post news on the Facebook
 page. Like us if you want to stay up to date. We even reply
 to messages. ;)
 
-If you have questions don't hesitate to mail us at <smokeyfeet2016@gmail.com>.
+If you have questions don't hesitate to mail us at <info@smokeyfeet.com>.
 
 ## Location
 
