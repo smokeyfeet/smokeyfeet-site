@@ -11,6 +11,7 @@ googleAnalyticsTrackingId = "UA-69088748-1"
 facebookUrl = "//facebook.com/Smokey-Feet-181498711899234"
 youtubeUrl = "//www.youtube.com/user/SmokeyFeet"
 #twitterUrl = "//twitter.com/smokeyfeet"
+termsUrl = "/terms/"
 
 [[menu.main]]
     name = "About"

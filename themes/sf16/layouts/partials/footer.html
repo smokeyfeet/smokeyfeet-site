@@ -11,6 +11,9 @@
 {{ end }}
         <li>KvK: 64013359</li>
         <li>IBAN: NL31 TRIO 0254 7452 45</li>
+{{ with .Site.Params.termsUrl }}
+        <li><a href="{{ . }}">Terms &amp; Conditions</a></li>
+{{ end }}
       </ul>
     </div>
     <div class="large-6 columns text-center">

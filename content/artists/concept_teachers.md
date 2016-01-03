@@ -9,6 +9,8 @@ weight = 20
 
 ## David & Catia
 
+{{< figure src="/img/david-catia.png" >}}
+
 These two Portuguese started dancing and teaching together in 2011, and have
 since become international teachers, mainly due to their aptitude to understand
 the fundamentals of good movement (dancing) and explaining it in an graspable
@@ -26,13 +28,37 @@ bring out to the best in each student. You'll rarely see her not smiling.
 
 ## David Hutuely
 
+{{< figure src="/img/david-hutuely.jpg" >}}
+
 _Lyrical Jazz, Sunday_
 
 ## Frie Trustfull
 
-_Hiphop, Saturday_
+{{< figure src="/img/frie-trustfull.jpg" >}}
+
+Frie Trustfull was born in Amsterdam and raised in Paramaribo (Surinam). He
+formed the dance group DejaVu in 1997. This group contained boys with talent
+who mainly danced at clubs. DejaVu performed at big events in Paramaribo.
+Frie moved to the Netherlands to study at the Academy for physical education
+in 1999.
+
+Together with Otmar Watson he formed the theater group 'Untold'. He was
+co-choreographer and scenario writer of 'The Story Untold'. A piece about
+slavery and dispersion of African people. The Story Untold played in
+theaters across the Netherlands, England and Surinam.
+
+As a performer he did multiple productions. From 2006 onwards he danced in
+theater group Don't Hit Mama, the Amsterdam Urban Show in China, Rooted
+(contemporary dance piece from choreographer Dayna Moralez Martinez) and
+workshop & mini production Kineo (Brussels & Amsterdam). He gave workshops
+at the Centre Rick Odums in Paris.
+
+Frie is a Hip Hop dance instructor at the Amsterdam University of Arts for
+several dance educations. He will give a concept class Hip Hop on Saturday.
 
 ## Marcus & Marianne
+
+{{< figure src="/img/marcus-marianne.jpg" >}}
 
 Marianne is a dancer and a psychologist by trade. Marcus is a mathematician.
 You do the math.
@@ -47,6 +73,8 @@ When it comes to teaching they like the challenge of balancing core technique
 with playfulness in the dance.
 
 ## Martin & Minou
+
+{{< figure src="/img/martin-minou.jpg" >}}
 
 Martin and Minou have been dancing together since meeting at Herräng Dance Camp
 in 2012. They've danced their way through events and workshops in Europe and
