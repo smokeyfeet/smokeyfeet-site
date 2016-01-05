@@ -55,10 +55,11 @@ after registration opens.
 
 ### Step 3: Complete your registration
 
-You have 14 days to complete your payment, fill in the questionnaire
-and send in your video audition (if applicable) or your reserved spot
-will be canceled. You should receive a final email confirming your
-successful registration.
+After you have received the confirmation mail, you have 14 days to
+make payment, fill in the questionnaire and send in your video audition
+(if applicable). In the case we've not received payment your spot may
+be given to someone else. You should receive a final email confirming
+your successful registration.
 
 <i>PIANO level: If you send in a video audition, you will get an email with
 the information regarding your level placement.</i>
