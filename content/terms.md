@@ -12,13 +12,15 @@ title = "Terms and Conditions"
 ## Registration and Admission Policies
 
 1. The organization guarantees admission to the dance camp only after complete
-   payment of the camp fee
+   payment of the camp fee. If you register with a partner both leader and
+   follower need to pay the camp fee
 
 2. The organization will not be held responsible for any expense incurred by
    the attendee, unless differently stated in the Cancellation Policies
 
 3. The organization reserves the right to revoke admission to the camp, with
-   no fee reimbursement, to attendees not respecting these terms and conditions
+   no fee reimbursement, to attendees not respecting these terms and
+   conditions. This also affects the registration of your sign-up partner
 
 ## Rules to be respected during the camp
 
@@ -53,6 +55,9 @@ title = "Terms and Conditions"
 
    - NO refund for cancellations happening later than 10 days before the
    camp start date
+
+   - A cancellation can also affect the registration of your signup
+   partner
 
 2. These rules apply in all cases, including those due to last-minute
    injuries, flight cancellations, or any event that is not caused by the
