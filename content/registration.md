@@ -3,7 +3,9 @@ date = "2015-10-11T14:54:06+02:00"
 title = "Registration"
 +++
 
-**Registration opens on the 8th of January 2016 @ 19:00 CET (UTC+1h)**
+<p class="text-center">
+  <a href="http://register.smokeyfeet.com" class="success large button">Registration is open!</a>
+</p>
 
 ## Passes
 
