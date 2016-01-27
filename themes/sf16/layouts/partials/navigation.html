@@ -5,14 +5,13 @@
     </ul>
   </div>
   <div class="top-bar-right">
-    <ul class="vertical medium-horizontal menu"
-        data-responsive-menu="accordion medium-dropdown">
+    <ul class="vertical medium-horizontal dropdown menu" data-responsive-menu="accordion medium-dropdown">
 {{ $currentNode := . }}
 {{ range .Site.Menus.main }}
       {{ if .HasChildren }}
       <li>
         {{ .Pre }}<a class="menu-text" href="javascript:void(0);">{{ .Name }}</a>
-        <ul class="vertical nested menu" data-submenu>
+        <ul class="vertical nested menu">
         {{ range .Children }}
           <li>{{ .Pre }}<a class="menu-text" href="{{ .URL }}">{{ .Name }}</a></li>
         {{ end }}
