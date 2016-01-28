@@ -3,9 +3,11 @@ date = "2015-10-11T14:54:06+02:00"
 title = "Registration"
 +++
 
-<p class="text-center">
-  <a href="http://register.smokeyfeet.com" class="success large button">Registration is open!</a>
-</p>
+## Registration is closed
+
+We're very happy with overwhelming number of registrations received.
+The waiting list now reaches to the moon and back and so for the time
+being we're closing registration...
 
 ## Passes
 
