@@ -4,7 +4,7 @@ title = "Levels"
 
 [menu.main]
 parent = "workshop"
-weight = 10
+weight = 30
 +++
 
 Choosing a level for your classes is quite difficult. It is not just
