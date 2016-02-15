@@ -22,14 +22,20 @@ by bike!
 * Science Park 306, 1098 XH Amsterdam
 * +31205258955
 
-<div id="map" style="height: 320px;"></div>
+<div class="row">
+  <div id="map" class="small-11 small-centered columns"
+      style="height: 320px; max-width: 640px;"></div>
+</div>
 
 <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
 <script>
-var map = L.map('map').setView([52.35579, 4.95642], 17);
+var latlng_usc = L.latLng(52.35579, 4.95676);
+var map = L.map('map', {attributionControl: false})
+map.setView(latlng_usc, 17);
 
 L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png').addTo(map);
-L.marker([52.35579, 4.95642, -0.09]).addTo(map)
-    .bindPopup('Workshops @ USC')
+L.marker(latlng_usc)
+    .addTo(map)
+    .bindPopup('Universum (USC)')
     .openPopup();
 </script>
