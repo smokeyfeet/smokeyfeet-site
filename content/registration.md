@@ -5,9 +5,9 @@ title = "Registration"
 
 ## Registration is closed
 
-We're very happy with overwhelming number of registrations received.
-The waiting list now reaches to the moon and back and so for the time
-being we're closing registration...
+We're very happy with the overwhelming amount of registrations received
+so far. The waiting list now reaches to the moon and back. For the time
+being we're closing registration.
 
 ## Passes
 
@@ -20,15 +20,12 @@ This year we're offering full passes and party passes.
 * Access to all concept classes
 * Price: **€200**
 
-_Before you register, please see which [level](/workshop/levels/) suits
-you best!_
-
 ### Party Pass
 
 * Entry to all 5 parties
 * Price: **€85**
 
-_Single tickets for parties will be sold at the door._
+_If available, we will sell single party tickets at the door._
 
 ## Process
 
