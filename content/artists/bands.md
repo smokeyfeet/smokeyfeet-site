@@ -33,3 +33,5 @@ it and to make everybody around swing with them. With genial arrangements
 they bring classics with Fats Waller, Count Basie, Fletcher Wallen and
 Django Reinhardt back to life for the audience to enjoy. The word
 fantastic in an understatement for this great swing band!
+
+## More to be announced!
