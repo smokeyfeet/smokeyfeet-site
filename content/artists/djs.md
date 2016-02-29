@@ -42,3 +42,13 @@ are required to glue this diversity together though: an irresistible dancing
 rhythm and authenticity in playing. If the songs have claps and/or if
 they talk about food, even better!
 {{% /profile %}}
+
+{{% profile name="DJ Rohan" src="/img/dj_rohan-profile.jpg" %}}
+A compulsive dancer, Rohan started DJing at Lindy and Blues parties in his
+local scene in Utrecht in 2012 and continued to develop his sense for what
+inspires people to dance, playing regularly in festivals in the Netherlands
+and abroad. His sets have evolved with his dancing, focusing increasingly on
+the musicality, rhythm and feel of the music. An upbeat mixture of vintage big
+band to New Orleans Jazz and everything in between, his playful sets will keep
+your feet moving on the dancefloor.
+{{% /profile %}}
