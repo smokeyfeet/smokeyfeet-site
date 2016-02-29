@@ -3,9 +3,11 @@ date = "2015-10-11T14:54:06+02:00"
 title = "Registration"
 +++
 
-<p class="text-center">
-  <a href="http://register.smokeyfeet.com" class="success large button">Registration is open!</a>
-</p>
+## Registration is closed
+
+We're very happy with the overwhelming amount of registrations received
+so far. The waiting list now reaches to the moon and back. For the time
+being we're closing registration.
 
 ## Passes
 
@@ -18,15 +20,12 @@ This year we're offering full passes and party passes.
 * Access to all concept classes
 * Price: **€200**
 
-_Before you register, please see which [level](/workshop/levels/) suits
-you best!_
-
 ### Party Pass
 
 * Entry to all 5 parties
 * Price: **€85**
 
-_Single tickets for parties will be sold at the door._
+_If available, we will sell single party tickets at the door._
 
 ## Process
 

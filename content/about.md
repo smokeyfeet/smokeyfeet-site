@@ -33,38 +33,6 @@ For (semi-)private accommodation we recommend the following websites:
  * [Airbnb](https://www.airbnb.com/s/Amsterdam%E2%80%93The-Netherlands)
  * [Stayokay](http://www.stayokay.com/nl)
 
-## Venues
-
-### Parties
-
-The Friday, Saturday and Sunday parties will take place in Theater de Omval.
-Theater de Omval is in the heart of Diemen, about 10 minutes biking from the
-class venue. The Theater has a playful atmosphere and a big hall for dancing.
-The party will be spread out over two levels. The ground floor is the relaxing
-area where the registration desk and cozy café are located. Upstairs is the
-main ballroom with a wooden floor and amazing high ceiling! The venue is
-located in the heart of Diemen and thus restaurants, supermarkets and an ATM are
-within walking distance.
-
-The venue for our Thursday and Monday will be announced as soon as possible.
-
-* [Theater de Omval](http://www.theaterdeomval.nl)
-* Ouddiemerlaan 104, 1111 HL Diemen
-* +31206001897
-
-### Classes
-
-The classes on Saturday and Sunday will take place in Sportcentrum
-Universum (USC). This venue has all the things you need: a café where
-you can relax in between classes, showers and even a sauna. This venue
-is close to the main venue where parties on Friday, Saturday and Sunday
-will take place. From here to the main party venue it is only 10 minutes
-by bike!
-
-* [Sportcentrum Universum](http://www.usc.uva.nl)
-* Science Park 306, 1098 XH Amsterdam
-* +31205258955
-
 ## Finding Your Way
 
 There are over 800,000 bicycles in Amsterdam. That's more bikes than

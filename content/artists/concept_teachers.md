@@ -7,10 +7,7 @@ parent = "artists"
 weight = 20
 +++
 
-## David & Catia
-
-{{< figure src="/img/david-catia.png" >}}
-
+{{% profile name="David & Catia" src="/img/david-catia.jpg" %}}
 These two Portuguese started dancing and teaching together in 2011, and have
 since become international teachers, mainly due to their aptitude to understand
 the fundamentals of good movement (dancing) and explaining it in an graspable
@@ -25,17 +22,13 @@ as he loves hugs.
 Cátia is a person's person. She's always caring for everybody, and it shows
 when it comes to teaching where she uses an intuitive and organic approach to
 bring out to the best in each student. You'll rarely see her not smiling.
+{{% /profile %}}
 
-## David Hutuely
-
-{{< figure src="/img/david-hutuely.jpg" >}}
-
+{{% profile name="David Hutuely" src="/img/david-hutuely.jpg" %}}
 _Lyrical Jazz, Sunday_
+{{% /profile %}}
 
-## Frie Trustfull
-
-{{< figure src="/img/frie-trustfull.jpg" >}}
-
+{{% profile name="Frie Trustfull" src="/img/frie-trustfull.jpg" %}}
 Frie Trustfull was born in Amsterdam and raised in Paramaribo (Surinam). He
 formed the dance group DejaVu in 1997. This group contained boys with talent
 who mainly danced at clubs. DejaVu performed at big events in Paramaribo.
@@ -55,11 +48,9 @@ at the Centre Rick Odums in Paris.
 
 Frie is a Hip Hop dance instructor at the Amsterdam University of Arts for
 several dance educations. He will give a concept class Hip Hop on Saturday.
+{{% /profile %}}
 
-## Marcus & Marianne
-
-{{< figure src="/img/marcus-marianne.jpg" >}}
-
+{{% profile name="Marcus & Marianne" src="/img/marcus-marianne.jpg" %}}
 Marianne is a dancer and a psychologist by trade. Marcus is a mathematician.
 You do the math.
 
@@ -71,11 +62,9 @@ show group Lindy Deluxe that placed number one in the ESDC Swing Team Showcase
 
 When it comes to teaching they like the challenge of balancing core technique
 with playfulness in the dance.
+{{% /profile %}}
 
-## Martin & Minou
-
-{{< figure src="/img/martin-minou.jpg" >}}
-
+{{% profile name="Martin & Minou" src="/img/martin-minou.jpg" %}}
 Martin and Minou have been dancing together since meeting at Herräng Dance Camp
 in 2012. They've danced their way through events and workshops in Europe and
 the US with their trademark playful style and contagious, genuine love of Lindy
@@ -92,3 +81,4 @@ pushing his dance by competing, teaching, performing and his favourite: social
 dancing. His musical intuition comes from an odd mix of his dad's love of big
 band jazz, playing the drums as a teenager and a brief spell as a house DJ in
 London.
+{{% /profile %}}
