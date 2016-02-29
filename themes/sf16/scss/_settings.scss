@@ -41,7 +41,7 @@
 
 @import 'util/util';
 
-// 1. Global
+// 0. Custom
 // ---------
 
 $white: #ffffff;
@@ -52,8 +52,11 @@ $orange: #b44c31;
 $font-family-sans-serif: Montserrat, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 $font-family-serif: Bitter, Georgia, Cambria, "Times New Roman", Times, serif;
 
-$global-width: rem-calc(1100);
+// 1. Global
+// ---------
+
 $global-font-size: 100%;
+$global-width: rem-calc(1100);
 $global-lineheight: 1.5;
 $primary-color: $blue;
 $secondary-color: $orange;
@@ -93,7 +96,7 @@ $breakpoint-classes: (small medium large);
 
 $grid-row-width: $global-width;
 $grid-column-count: 12;
-$grid-column-responsive-gutter: (
+$grid-column-gutter: (
   small: 20px,
   medium: 30px,
 );
@@ -295,7 +298,7 @@ $drilldown-background: $white;
 
 $dropdown-padding: 1rem;
 $dropdown-border: 1px solid $medium-gray;
-$dropdown-font-size: 16rem;
+$dropdown-font-size: 1rem;
 $dropdown-width: 300px;
 $dropdown-radius: $global-radius;
 $dropdown-sizes: (
@@ -536,6 +539,8 @@ $titlebar-icon-spacing: 0.25rem;
 // 34. Tooltip
 // -----------
 
+$has-tip-font-weight: $global-weight-bold;
+$has-tip-border-bottom: dotted 1px $dark-gray;
 $tooltip-background-color: $black;
 $tooltip-color: $white;
 $tooltip-padding: 0.75rem;
@@ -550,5 +555,5 @@ $tooltip-radius: $global-radius;
 
 $topbar-padding: 0.5rem;
 $topbar-background: $light-gray;
-$topbar-input-width: 200px;
 $topbar-title-spacing: 1rem;
+$topbar-input-width: 200px;
