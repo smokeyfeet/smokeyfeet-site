@@ -3,11 +3,16 @@ date = "2015-10-11T14:54:06+02:00"
 title = "Registration"
 +++
 
-## Registration is closed
+## Smokey Feet is sold out!
 
-We're very happy with the overwhelming amount of registrations received
-so far. The waiting list now reaches to the moon and back. For the time
-being we're closing registration.
+You can still purchase tickets at the door for the Thursday and Monday
+parties (**€10** each) but we will not be selling tickets for
+Friday, Saturday and Sunday.
+
+Passes for the workshop are also sold out. We're sorry if you missed
+the boat but we hope to see you some other year in Amsterdam!
+
+---
 
 ## Passes
 
@@ -24,8 +29,6 @@ This year we're offering full passes and party passes.
 
 * Entry to all 5 parties
 * Price: **€85**
-
-_If available, we will sell single party tickets at the door._
 
 ## Process
 
