@@ -3,7 +3,7 @@
     <img src="{{ .Get "src" }}" class="float-center" alt="{{ .Get "name" }}">
   </div>
   <div class="medium-8 columns">
-    <h2>{{ .Get "name" }}</h2>
+    <h2><a name="{{ .Get "ref" }}"></a>{{ .Get "name" }}</h2>
     {{ .Inner }}
   </div>
 </div>

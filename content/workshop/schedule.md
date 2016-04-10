@@ -1,9 +1,10 @@
 +++
 date = "2015-10-11T14:54:06+02:00"
-title = "Schedule!"
+title = "Schedule"
 
 [menu.main]
 parent = "workshop"
+identifier = "workshop-schedule"
 weight = 20
 +++
 

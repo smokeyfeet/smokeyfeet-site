@@ -9,15 +9,15 @@ weight = 20
 
 {{% profile name="David & Catia" src="/img/david-catia.jpg" %}}
 These two Portuguese started dancing and teaching together in 2011, and have
-since become international teachers, mainly due to their aptitude to understand
-the fundamentals of good movement (dancing) and explaining it in an graspable
-and applicable way.
+since become international teachers, mainly due to their aptitude to
+understand the fundamentals of good movement (dancing) and explaining it in an
+graspable and applicable way.
 
 David is an addicted social dancer. You'll rarely see him not dancing while
 there is groovy swing music playing. He's also a geek, that cannot avoid
 himself of de-constructing the nuclear bio-mechanics and rhythmic structure of
-the dance and music. And he loves to share this knowledge/vision almost as much
-as he loves hugs.
+the dance and music. And he loves to share this knowledge/vision almost as
+much as he loves hugs.
 
 Cátia is a person's person. She's always caring for everybody, and it shows
 when it comes to teaching where she uses an intuitive and organic approach to
@@ -25,7 +25,14 @@ bring out to the best in each student. You'll rarely see her not smiling.
 {{% /profile %}}
 
 {{% profile name="David Hutuely" src="/img/david-hutuely.jpg" %}}
-_Lyrical Jazz, Sunday_
+David started his career as a dancer for Helen le Clerq. He performed in West
+Side Story and Jazz Extension D.T. He is working as a teacher and
+choreographer in the Netherlands and abroad (even though he passed retirement
+age - don't tell him we told you).
+
+David's classes are a mix of lyrical and funky jazz combinations with a touch
+of modern dance. In his style the rhythm and lyrics lead you so you will
+rarely hear him count. Expect to hear a lot of 'oehm' and 'ooh baby'.
 {{% /profile %}}
 
 {{% profile name="Frie Trustfull" src="/img/frie-trustfull.jpg" %}}
@@ -37,14 +44,14 @@ in 1999.
 
 Together with Otmar Watson he formed the theater group 'Untold'. He was
 co-choreographer and scenario writer of 'The Story Untold'. A piece about
-slavery and dispersion of African people. The Story Untold played in
-theaters across the Netherlands, England and Surinam.
+slavery and dispersion of African people. The Story Untold played in theaters
+across the Netherlands, England and Surinam.
 
 As a performer he did multiple productions. From 2006 onwards he danced in
 theater group Don't Hit Mama, the Amsterdam Urban Show in China, Rooted
 (contemporary dance piece from choreographer Dayna Moralez Martinez) and
-workshop & mini production Kineo (Brussels & Amsterdam). He gave workshops
-at the Centre Rick Odums in Paris.
+workshop & mini production Kineo (Brussels & Amsterdam). He gave workshops at
+the Centre Rick Odums in Paris.
 
 Frie is a Hip Hop dance instructor at the Amsterdam University of Arts for
 several dance educations. He will give a concept class Hip Hop on Saturday.
@@ -65,10 +72,10 @@ with playfulness in the dance.
 {{% /profile %}}
 
 {{% profile name="Martin & Minou" src="/img/martin-minou.jpg" %}}
-Martin and Minou have been dancing together since meeting at Herräng Dance Camp
-in 2012. They've danced their way through events and workshops in Europe and
-the US with their trademark playful style and contagious, genuine love of Lindy
-Hop.
+Martin and Minou have been dancing together since meeting at Herräng Dance
+Camp in 2012. They've danced their way through events and workshops in Europe
+and the US with their trademark playful style and contagious, genuine love of
+Lindy Hop.
 
 Minou Ericson is from Eskilstuna outside Stockholm and simply loves to dance.
 While taking street dance classes she was introduced to Lindy Hop and it was
@@ -76,9 +83,9 @@ love at first sight. She loves social dancing, competing, choreographing and
 performing in both Lindy Hop and authentic jazz, using isolations and other
 street dance elements as part of her unique style.
 
-Ever since discovering Lindy Hop at the Copenhagen Jazz Festival, Martin's been
-pushing his dance by competing, teaching, performing and his favourite: social
-dancing. His musical intuition comes from an odd mix of his dad's love of big
-band jazz, playing the drums as a teenager and a brief spell as a house DJ in
-London.
+Ever since discovering Lindy Hop at the Copenhagen Jazz Festival, Martin's
+been pushing his dance by competing, teaching, performing and his favourite:
+social dancing. His musical intuition comes from an odd mix of his dad's love
+of big band jazz, playing the drums as a teenager and a brief spell as a house
+DJ in London.
 {{% /profile %}}

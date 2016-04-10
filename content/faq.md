@@ -69,9 +69,9 @@ we can get! If you want to volunteer, please send an email to
 
 #### Will there be tickets sold at the door?
 
-If we don't sell out there will be a limited amount of party passes
-sold at the door on Thursday and Friday. You will be able to buy single
-party tickets at the door as long as we have space left.
+You can still purchase tickets at the door for the Thursday and Monday
+parties (€10 each) but we will **not** be selling tickets for Friday, Saturday
+and Sunday.
 
 #### What's the cancellation policy, can I sell or give away my pass to a fellow dancer?
 

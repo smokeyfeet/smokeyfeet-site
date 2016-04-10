@@ -7,7 +7,10 @@ parent = "artists"
 weight = 10
 +++
 
-## <a name="ali_katja"></a>Ali Taghavi & Katja Uckermann
+{{% profile
+  name="Ali Taghavi & Katja Uckermann"
+  src="/img/ali_katja.jpg"
+  ref="ali_katja" %}}
 
 It was love at first dance: Ali & Katja have been dancing together ever
 since they met on a Paris dance floor in 2003. Based in Heidelberg,
@@ -26,7 +29,12 @@ yourself if you're "doing it right" outside the classroom. This way,
 you can continue to improve and practice on your own and take your
 dancing to the next level.
 
-## <a name="jb_tatiana"></a>JB Mino & Tatiana Udry
+{{% /profile %}}
+
+{{% profile
+  name="JB Mino & Tatiana Udry"
+  src="/img/jb_tatiana.jpg"
+  ref="jb_tatiana" %}}
 
 Tatiana Udry and JB Mino are from Montpellier, France, and are the shooting
 stars of todays Lindy hop. They have won numerous competitions in Lindy hop,
@@ -35,7 +43,12 @@ Solo Charleston and impress with the easiness of their moves and their strong
 connection that make them outstanding social dancers as well. Watch them dance
 and improvise and get inspired by their creativity and joy!
 
-## <a name="martynas_egle"></a>Martynas Stonys & Egle Regelskis
+{{% /profile %}}
+
+{{% profile
+  name="Martynas Stonys & Egle Regelskis"
+  src="/img/martynas_egle.jpg"
+  ref="martynas_egle" %}}
 
 Martynas Stonys and Egle Regelskis are one of the leading Lindy Hop couples
 in Vilnius, Lithuania. Since opening Hoppers' dance studio in Vilnius Martynas
@@ -54,14 +67,25 @@ Known for their technicality and energy in their dancing they already have
 won a few Lindy Hop Strictly and Jack'n'Jill competitions all over Europe.
 And their most recent Lindy Hop Showcase took 2nd place in European Swing
 Dance Championships 2015.
+{{% /profile %}}
 
-## <a name="nicolas_pamela"></a>Nicolas Deniau & Pamela Gaizutyte
+{{%
+  profile name="Nicolas Deniau"
+  src="/img/nicolas-profile.jpg"
+  ref="nicolas" %}}
 
 Nicolas attended his first Rock'n Roll dance class at the age of 8 and after
 only one year of dancing he took part in his first competition. This was the
 start of a long competition career in Rock'n Roll and Boogie Woogie. He was
 early drawn to the show aspect of the dance which you can still see in his
 dancing!
+
+{{% /profile %}}
+
+{{%
+  profile name="Pamela Gaizutyte"
+  src="/img/pamela-profile.jpg"
+  ref="pamela" %}}
 
 Pamela has been dancing since she was 5 years old. She did traditional
 Lithuanian folk dancing for years, until she found her passion in Lindy
@@ -76,7 +100,12 @@ and sense of musicality are an inspiration. Pamela enjoys spreading the
 joy of dance and sharing her knowledge, and is excited to travel to new
 and faraway places to do so.
 
-## <a name="ksenia"></a>Ksenia Parkhatskaya
+{{% /profile %}}
+
+{{%
+  profile name="Ksenia Parkhatskaya"
+  src="/img/ksenia-profile.jpg"
+  ref="ksenia" %}}
 
 Graceful, eccentric, and full of character, Ksenia is one of the most
 interesting and versatile artists in the jazz and swing world today.
@@ -107,3 +136,5 @@ Duffy Quintet (Ireland), Soul Driven (Ireland). She creates
 choreographies for TV and films such as: So You Think You Can
 Dance '15 (Rus), So You Think You can Dance '15 ­ 8 (Ukr),
 Ukraine's Got Talent '13 (Ukraine), "Harbinez" TV series film (Rus).
+
+{{% /profile %}}
