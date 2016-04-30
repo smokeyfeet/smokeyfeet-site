@@ -8,67 +8,65 @@ identifier = "party-schedule"
 weight = 20
 +++
 
-Preliminary Schedule
+*Preliminary Schedule*
 
 ## Thursday
 
 Location: [Kompaszaal](/parties/venues/#kompaszaal)
 
-| Time        |                      |
-|-------------|----------------------|
-| 20:00       | Part starts          |
-| 01:00       | Party ends           |
+*Band: TBA*
+
+| Time  |                      |
+|-------|----------------------|
+| 20:00 | Party starts         |
+| 01:00 | Party ends           |
 
 ## Friday
 
 Location: [Theater de Omval](/parties/venues/#omval)
 
-| Time        |                      |
-|-------------|----------------------|
-| 21:00       | Part starts          |
-| *21:00-03:00* | Band: Hot Sugar Band |
-| 21:00       | Registrations opens |
-| 22:00       | The band starts to play (of: Live music begins) |
-| 23:15       | Teachers introduction |
-| 03:00       | Party ends            |
+*Band: Hot Sugar Band*
+
+| Time  |                       |
+|-------|-----------------------|
+| 21:00 | Party starts          |
+| 21:00 | Registrations opens   |
+| 23:15 | Teachers introduction |
+| 03:00 | Party ends            |
 
 ## Saturday
 
 Location: [Theater de Omval](/parties/venues/#omval)
 
-| Time        |                      |
-|-------------|----------------------|
-| 21:00       | Part starts          |
-| *21:00-04:00* | Bands: Hot Sugar Band and Prof. Cunningham & His Old School |
-| 21:00       | Prelims for competitions |
-| 22:00       | The band starts to play |
-| 23:15       | Teachers introduction |
-| 04:00       | Party ends            |
+*Bands: Hot Sugar Band AND Prof. Cunningham & His Old School*
+
+| Time  |                     |
+|-------|---------------------|
+| 21:00 | Party starts        |
+| 21:00 | Competition PRELIMS |
+| 04:00 | Party ends          |
 
 ## Sunday
 
 Location: [Theater de Omval](/parties/venues/#omval)
 
- * Caberet
- * Teacher's Jam
+*Band: Prof. Cunningham & His Old School*
 
-| Time        |                      |
-|-------------|----------------------|
-| 21:00       | Part starts          |
-| *21:00-04:00* | Band: Prof. Cunningham & His Old School |
-| 22:00       | The band starts to play |
-| 22:45       | Performances            |
-| 00:00       | Finals for competitions |
-| 04:00       | Party ends              |
+| Time  |                    |
+|-------|--------------------|
+| 21:00 | Party starts       |
+| 22:45 | Performances       |
+| 23:15 | Teacher's Jam      |
+| 00:00 | Competition FINALS |
+| 04:00 | Party ends         |
 
 ## Monday
 
-Saying goodbye with the Revivalists.
-
 Location: [Koffiehuis KHL](/parties/venues/#khl)
 
-| Time        |                      |
-|-------------|----------------------|
-| 20:00       | Party starts         |
-| 21:00       | Band starts to play  |
-| 01:00       | Party ends           |
+*Band: The Revivalists*
+
+| Time  |                       |
+|-------|-----------------------|
+| 20:00 | Party starts          |
+| 01:00 | Party ends            |

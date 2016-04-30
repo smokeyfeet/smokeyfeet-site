@@ -48,6 +48,7 @@ $white: #ffffff;
 $beige: #c2bca6;
 $blue: #3c878e;
 $orange: #b44c31;
+$table-beige: #ded8c0;
 
 $font-family-sans-serif: Montserrat, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 $font-family-serif: Bitter, Georgia, Cambria, "Times New Roman", Times, serif;
@@ -485,7 +486,7 @@ $switch-paddle-transition: all 0.25s ease-out;
 // 30. Table
 // ---------
 
-$table-background: $white;
+$table-background: $table-beige;
 $table-color-scale: 5%;
 $table-border: 1px solid smart-scale($table-background, $table-color-scale);
 $table-padding: rem-calc(8 10 10);
