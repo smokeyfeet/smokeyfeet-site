@@ -19,6 +19,11 @@ termsUrl = "/terms/"
     url = "/about/"
     weight = 10
 [[menu.main]]
+    name = "News"
+    identifier = "news"
+    url = "/news/"
+    weight = 15
+[[menu.main]]
     name = "Workshop"
     identifier = "workshop"
     weight = 20
